@@ -4,7 +4,7 @@
 
 **About me:**
 - 💻 I am currently working as a Systems Analyst at [@Bradesco](https://banco.bradesco/html/classic/index.shtm)
-- <img  height="16" src="http://tiny.cc/lr61vz"> I was part of SAP008 generation at [@Laboratória](https://www.laboratoria.la/br)'s bootcamp
+- <img  height="16" src="http://tiny.cc/lr61vz">  I was part of SAP008 generation at [@Laboratória](https://www.laboratoria.la/br)'s bootcamp
 - ⚛️ I look forward on learning more about Node.js and Python
 - 🎓 I'm graduated in Design
 - 🤯 Learning through explaning things | 🌱 being a vegetarian are my fun facts
