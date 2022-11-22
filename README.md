@@ -7,7 +7,7 @@
 - <img  height="16" src="http://tiny.cc/lr61vz"> I was part of SAP008 generation at [@Laboratória](https://www.laboratoria.la/br)'s bootcamp
 - ⚛️ I look forward on learning more about Node.js and Python
 - 🎓 I'm graduated in Design
-- 🤯 Learning through explaning things | 🌱 being a vegeterian are my fun facts
+- 🤯 Learning through explaning things | 🌱 being a vegetarian are my fun facts
 - <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Triforce.svg"> The Legend of Zelda | 🛼 roller skating | 🔮 astrology are some of my favourite things
 - 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/nunes-isabela/)
 
